@@ -1,6 +1,15 @@
 # 👋 Hey there! I'm Inarat <3
-<br>💻 **B.Tech CSE** | 🔬 **Researcher** | 💡 **Innovator** | 🚀 **Building the Future**<br><br>I'm a Computer Science undergrad deeply passionate about solving real-world problems through code, research, and resistance. From decoding human emotion through speech to reimagining content delivery over decentralized 5G edge networks — I believe in building tech that challenges the norm and empowers voices that have long been silenced.<br><br> ## 🔥 **I'm Working On** <br>🎙️ Real-Time Speech Emotion Recognition using deep learning and data augmentation.<br>🌐 Blockchain-based CDN with 5G Edge Nodes, powered by Polygon + IPFS + Docker + UERANSIM.<br>💪 Advocating for feminist tech spaces where control, privacy, and power aren't privileges — they're rights.<br><br> **Empower.** **Code.** **Disrupt.** <br><br>"Technology should liberate, not dominate."
+<br>💻 **B.Tech CSE** | 🔬 **Researcher** | 💡 **Innovator** | 🚀 **Building the Future**<br><br>I'm a Computer Science undergrad deeply passionate about solving real-world problems through code, research, and resistance. From decoding human emotion through speech to reimagining content delivery over decentralized 5G edge networks — I believe in building tech that challenges the norm and empowers voices that have long been silenced.
 
+## 🔥 **I'm Working On**
+🎙️ Real-Time Speech Emotion Recognition using deep learning and data augmentation.  
+🌐 Blockchain-based CDN with 5G Edge Nodes, powered by Polygon + IPFS + Docker + UERANSIM.  
+💪 Advocating for feminist tech spaces where control, privacy, and power aren't privileges — they're rights.
+
+<br>
+
+**Empower.** **Code.** **Disrupt.**  
+*“Technology should liberate, not dominate.”*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inarat-hussain-612194270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inarathussain.work@gmail.com) 
